@@ -1,4 +1,4 @@
-package com.marat;
+package com.marat.tests;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.selenide.Selenide;

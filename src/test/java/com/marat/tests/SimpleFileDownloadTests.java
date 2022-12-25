@@ -1,4 +1,4 @@
-package com.marat;
+package com.marat.tests;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;

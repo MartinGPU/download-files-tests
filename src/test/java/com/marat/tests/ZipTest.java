@@ -1,4 +1,4 @@
-package com.marat;
+package com.marat.tests;
 
 import org.apache.commons.io.IOUtils;
 import org.junit.jupiter.api.Assertions;

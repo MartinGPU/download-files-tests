@@ -1,4 +1,4 @@
-package com.marat;
+package com.marat.tests;
 
 import com.codeborne.xlstest.XLS;
 import com.opencsv.CSVReader;
